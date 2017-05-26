@@ -516,6 +516,7 @@ def evalution(pred, label):
     print('F11=' + str(F11))
     print('F12=' + str(F12))
     print('score=' + str(score))
-
+'''
 all_action=get_trainingset('2016-02-01','2016-04-11','2016-04-11','2016-04-16')
 sub_action=get_testset('2016-02-01','2016-04-16')
+'''
